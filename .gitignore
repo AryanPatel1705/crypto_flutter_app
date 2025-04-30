@@ -26,6 +26,7 @@ key.properties
 **/*.jks
 flutter_*.log
 captures/
+D:\Flutter Projects\crypto_flutter_app\lib\api_keys.env
 # Remember to never publicly share your keystore.
 # See https://flutter.dev/to/reference-keystore
 key.properties

@@ -26,6 +26,7 @@ dependencies:
   cloud_firestore: ^5.6.5
   google_sign_in: ^6.1.5
   fl_chart: ^0.71.0
+  flutter_dotenv: ^5.0.2
 
   font_awesome_flutter: ^10.4.0
   cached_network_image: ^3.3.0

@@ -8,6 +8,8 @@ import 'screen/settings_screen.dart';
 import 'package:provider/provider.dart';
 import 'provider/settingsprovider.dart';
 import 'widgets/crypto_matrix_animation.dart'; // Import the animation widget
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -53,7 +55,7 @@ class _AppInitializerState extends State<AppInitializer> {
       if (kIsWeb) {
         await Firebase.initializeApp(
           options: FirebaseOptions(
-            apiKey: "AIzaSyBvla3GOSqcMopQKwvErth4wrXr5NMympQ",
+            apiKey: "GOOGLE_API_KEY = dotenv.env['GOOGLE_API_KEY'] ?? '';",
             authDomain: "crypto-trading-62397.firebaseapp.com",
             databaseURL: "https://crypto-trading-62397-default-rtdb.asia-southeast1.firebasedatabase.app",
             projectId: "crypto-trading-62397",
