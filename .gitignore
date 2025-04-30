@@ -18,6 +18,7 @@ gradle-wrapper.jar
 /local.properties
 GeneratedPluginRegistrant.java
 .cxx/
+android/app/google-services.json
 google-services.json
 ios/Runner/GoogleService-Info.plist
 key.properties
