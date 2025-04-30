@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171197138817",
+    "firebase_url": "https://crypto-trading-62397-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crypto-trading-62397",
+    "storage_bucket": "crypto-trading-62397.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171197138817:android:5c9559d52d50a5a2cc4a80",
+        "android_client_info": {
+          "package_name": "com.example.crypto_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171197138817-td4ejgk67rll63ejar7domtdoc6pc8g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crypto_flutter_app",
+            "certificate_hash": "d54b2cad483ca5af47cdbabbf8b5bf0d8d4f5499"
+          }
+        },
+        {
+          "client_id": "171197138817-mmd1946r5s0f7qpeifnvcl8654k1ns3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEyhZ-VPUWyTVedEHKwKnoC_JncYP_mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171197138817-9lq06n1cqcb4120e8khq6kc0qd1bvp7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

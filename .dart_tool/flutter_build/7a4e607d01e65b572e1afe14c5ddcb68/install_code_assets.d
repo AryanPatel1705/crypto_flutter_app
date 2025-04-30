@@ -1,0 +1,1 @@
+ D:\\Flutter\ Projects\\crypto_flutter_app\\.dart_tool\\flutter_build\\7a4e607d01e65b572e1afe14c5ddcb68\\native_assets.json: 
